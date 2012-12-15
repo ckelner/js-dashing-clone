@@ -1,0 +1,40 @@
+body {
+    padding:10px !important;
+    background-color: #000;
+}
+#hero{
+	text-align: center;
+	border-radius: 20px;
+	background-color: transparent;
+}
+#dashboard{
+	position: relative;
+	padding: 0px !important;
+	width: 680px;
+	margin: 0 auto;
+}
+.dashModule{
+	border-radius: 7px;
+}
+#dashboard .ss-moving {
+  opacity: .7;
+  transform: rotate(3deg);
+}
+#dashModule-CostPerHour{
+	width: 300px;
+	height: 600px;
+	position: absolute;
+	background-color: #FF9618;
+}
+#dashModule-NumOfInstances{
+	width: 300px;
+	height: 294px;
+	position: absolute;
+	background-color: #EC663C
+}
+#dashModule-NumOfLoadBalancers{
+	width: 300px;
+	height: 294px;
+	position: absolute;
+	background-color: #47BBB3
+}
