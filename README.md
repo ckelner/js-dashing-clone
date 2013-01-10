@@ -1,4 +1,4 @@
 js-dashing-clone
 ================
 
-clone of dashing in js
+A clone of [dashing](http://shopify.github.com/dashing/) in javascript only.
